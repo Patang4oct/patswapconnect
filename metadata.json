@@ -1,0 +1,5 @@
+{
+  "name": "PatSwap Connect",
+  "description": "An application for PatSwap to help Delhi University students connect safely during fests using simulated NFC technology and safety features.",
+  "requestFramePermissions": []
+}
